@@ -1,0 +1,11 @@
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.exe
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.deps.json
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.runtimeconfig.json
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.runtimeconfig.dev.json
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.dll
+D:\progetti RC\MultiServer\MultiServer\bin\Release\netcoreapp3.1\MultiServer.pdb
+D:\progetti RC\MultiServer\MultiServer\obj\Release\netcoreapp3.1\MultiServer.AssemblyInfoInputs.cache
+D:\progetti RC\MultiServer\MultiServer\obj\Release\netcoreapp3.1\MultiServer.AssemblyInfo.cs
+D:\progetti RC\MultiServer\MultiServer\obj\Release\netcoreapp3.1\MultiServer.dll
+D:\progetti RC\MultiServer\MultiServer\obj\Release\netcoreapp3.1\MultiServer.pdb
+D:\progetti RC\MultiServer\MultiServer\obj\Release\netcoreapp3.1\MultiServer.csprojAssemblyReference.cache

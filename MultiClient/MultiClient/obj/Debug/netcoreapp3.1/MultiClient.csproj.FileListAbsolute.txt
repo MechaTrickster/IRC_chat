@@ -1,0 +1,11 @@
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.exe
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.deps.json
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.runtimeconfig.json
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.runtimeconfig.dev.json
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.dll
+D:\progetti RC\MultiClient\MultiClient\bin\Debug\netcoreapp3.1\MultiClient.pdb
+D:\progetti RC\MultiClient\MultiClient\obj\Debug\netcoreapp3.1\MultiClient.csprojAssemblyReference.cache
+D:\progetti RC\MultiClient\MultiClient\obj\Debug\netcoreapp3.1\MultiClient.AssemblyInfoInputs.cache
+D:\progetti RC\MultiClient\MultiClient\obj\Debug\netcoreapp3.1\MultiClient.AssemblyInfo.cs
+D:\progetti RC\MultiClient\MultiClient\obj\Debug\netcoreapp3.1\MultiClient.dll
+D:\progetti RC\MultiClient\MultiClient\obj\Debug\netcoreapp3.1\MultiClient.pdb
